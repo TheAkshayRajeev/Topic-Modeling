@@ -8,4 +8,7 @@ Analyzing behaviors of different firefighters and policeman applicants
 
 ![image](https://user-images.githubusercontent.com/73797256/121285545-3556ba00-c8a4-11eb-95ef-5e1b74ff87da.png)
 
+![image](https://user-images.githubusercontent.com/73797256/121285696-6d5dfd00-c8a4-11eb-8053-23b9e13dd315.png)
+
+
 
